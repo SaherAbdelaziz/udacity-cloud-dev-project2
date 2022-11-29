@@ -29,7 +29,12 @@
     "pg": "^7.11.0",
     "reflect-metadata": "^0.1.13",
     "sequelize": "^5.10.0",
-    "sequelize-typescript": "^0.6.11"
+    "sequelize-cli": "^6.5.2",
+    "sequelize-typescript": "^0.6.11",
+    "jimp": "^0.16.1",
+    "lodash": "^4.17.15",
+    "rimraf": "^3.0.2",
+    "valid-url": "^1.0.9"
   },
   "devDependencies": {
     "@types/bluebird": "^3.5.33",
@@ -43,6 +48,7 @@
     "rimraf": "^3.0.2",
     "ts-node-dev": "^1.1.1",
     "tslint": "^5.20.1",
-    "typescript": "^3.9.7"
+    "typescript": "^3.9.7",
+    "@types/valid-url": "^1.0.2"
   }
 }

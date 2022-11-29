@@ -41,4 +41,3 @@ venv/
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 .env
-.udacity-c2-frontend/
